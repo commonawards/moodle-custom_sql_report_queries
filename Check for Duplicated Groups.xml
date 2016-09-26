@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040121"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Check for Duplicated Groups]]></name>
+<summary><![CDATA[<p>This report checks for whether any duplicated groups or groupings required for exam board reports exist in any courses where the course idnumber contains '-17' an exam board reference to the academic year 2016/17.</p>
+<p>As such this report will be useful after creating groups by CSV (see the 'Create Import Groups CSV' report).</p>
+<p>Please click the course links below to correct the duplicated groups or groupings. Then return to this report to check again.</p>
+<p>If there is nothing to view (no records) then no duplicated groups have been found - which is good !</p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjM6e3M6ODoicXVlcnlzcWwiO3M6MTIwOToic2VsZWN0K2NvbmNhdCUyOCUyNyUzQ2EraHJlZiUzRCUyMiUyRmdyb3VwJTJGaW5kZXgucGhwJTNGaWQlM0QlMjclMkNjLmlkJTJDJTI3JTIyJTNFJTI3JTJDYy5zaG9ydG5hbWUlMkMlMjclM0MlMkZhJTNFJTI3JTI5K2FzK2NvdXJzZSUyQ2NvbmNhdCUyOCUyN0ZvdW5kK0R1cGxpY2F0ZWQrR3JvdXBzK21hdGNoaW5nJTNBKyUyNyUyNyUyQ0xPV0VSJTI4Zy5uYW1lJTI5JTJDJTI3JTI3JTI3JTI5K2FzK2dyb3VwbmFtZSUyQ2dzLm5hbWUrYXMrJTI3R3JvdXBpbmclMjclMEQlMEElMEQlMEFmcm9tK3ByZWZpeF9jb3Vyc2UrYyUwRCUwQSUwRCUwQWlubmVyK2pvaW4rcHJlZml4X2dyb3VwcytnK29uK2MuaWQlM0RnLmNvdXJzZWlkJTBEJTBBJTBEJTBBaW5uZXIram9pbitwcmVmaXhfZ3JvdXBpbmdzX2dyb3VwcytnZytvbitnLmlkJTNEZ2cuZ3JvdXBpZCUwRCUwQSUwRCUwQWlubmVyK2pvaW4rcHJlZml4X2dyb3VwaW5ncytncytvbitnZy5ncm91cGluZ2lkJTNEZ3MuaWQlMEQlMEElMEQlMEF3aGVyZStpbnN0ciUyOGMuaWRudW1iZXIlMkMlMjctMTclMjclMjklM0UwJTBEJTBBJTBEJTBBaGF2aW5nK2NvdW50JTI4Z3JvdXBuYW1lJTI5JTNFMSUwRCUwQSUwRCUwQXVuaW9uJTBEJTBBJTBEJTBBc2VsZWN0K2NvbmNhdCUyOCUyNyUzQ2EraHJlZiUzRCUyMiUyRmdyb3VwJTJGZ3JvdXBpbmdzLnBocCUzRmlkJTNEJTI3JTJDYy5pZCUyQyUyNyUyMiUzRSUyNyUyQ2Muc2hvcnRuYW1lJTJDJTI3JTNDJTJGYSUzRSUyNyUyOSthcytjb3Vyc2UlMkMrJTI3Rm91bmQrRHVwbGljYXRlZCtHcm91cGluZ3MlMjclMkMrY29uY2F0JTI4JTI3TWF0Y2hpbmclM0ErJTI3JTI3JTJDTE9XRVIlMjhncy5uYW1lJTI5JTJDJTI3JTI3JTI3JTI5K2FzK2dyb3VwaW5nbmFtZSUwRCUwQSUwRCUwQWZyb20rcHJlZml4X2NvdXJzZStjJTBEJTBBJTBEJTBBaW5uZXIram9pbitwcmVmaXhfZ3JvdXBzK2crb24rYy5pZCUzRGcuY291cnNlaWQlMEQlMEElMEQlMEFpbm5lcitqb2luK3ByZWZpeF9ncm91cGluZ3NfZ3JvdXBzK2dnK29uK2cuaWQlM0RnZy5ncm91cGlkJTBEJTBBJTBEJTBBaW5uZXIram9pbitwcmVmaXhfZ3JvdXBpbmdzK2dzK29uK2dnLmdyb3VwaW5naWQlM0Rncy5pZCUwRCUwQSUwRCUwQXdoZXJlK2luc3RyJTI4Yy5pZG51bWJlciUyQyUyNy0xNyUyNyUyOSUzRTAlMEQlMEElMEQlMEFoYXZpbmcrY291bnQlMjhncm91cGluZ25hbWUlMjklM0UxIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO319fQ==]]></components>
+<export><![CDATA[xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[71]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
