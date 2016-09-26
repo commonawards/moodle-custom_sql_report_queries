@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040121"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Durham Module Registrations]]></name>
+<summary><![CDATA[<p style="text-align: left;">This report can be used for the academic year 2016/17.</p>
+<p style="text-align: left;">The last 3 columns are for checking and should be removed before forwarding to Durham. The link to the username may be useful for checking a user's profile, module enrolments and group memberships.</p>
+<p style="text-align: left;">The report requires that all Durham modules </p>
+<p style="text-align: left;"></p>
+<ul>
+<li style="text-align: left;">have the idnumber containing -17 (that also identifies the exam board year)</li>
+<li style="text-align: left;">have the shortname beginning 'TMM' ie the Durham module code</li>
+</ul>
+<p></p>
+<p style="text-align: left;">The format is valid as stipulated by <a href="https://www.dur.ac.uk/common.awards/policies/prog.registration/modules/formatting/" target="_blank">https://www.dur.ac.uk/common.awards/policies/prog.registration/modules/formatting/</a> but the data for each student must exist ie</p>
+<p></p>
+<ul>
+<li style="text-align: left;">the moodle user must exist</li>
+<li style="text-align: left;">user must be enrolled as 'student' in all their modules</li>
+<li style="text-align: left;">user must be a member of ONE of the groups 'Durham accredited' or 'Durham lower level' in each of their modules</li>
+<li style="text-align: left;">the groups "Durham accredited' and 'Durham lower level' must both be in the grouping 'All DU accredited', in each module</li>
+<li style="text-align: left;">the user's profile must be complete (those fields related to Durham like 'Common Awards Programme Code', 'Common Awards Student Number' etc)</li>
+</ul>
+<p></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjM6e3M6ODoicXVlcnlzcWwiO3M6MjMxMzoiU0VMRUNUKyUwRCUwQSUwRCUwQWNvbmNhdCUyOCUyOHNlbGVjdCtkYXRhK2Zyb20rcHJlZml4X3VzZXJfaW5mb19kYXRhK2F1aWQraW5uZXIram9pbitwcmVmaXhfdXNlcl9pbmZvX2ZpZWxkK2F1aWYrb24rYXVpZC5maWVsZGlkJTNEYXVpZi5pZCUwRCUwQXdoZXJlK2F1aWYuc2hvcnRuYW1lJTNEJTIyQ0FTdHVkZW50TnVtYmVyJTIyK2FuZCthdWlkLnVzZXJpZCUzRHUuaWQlMjklMjkrYXMrJTIyQmFubmVyK0lEJTIyJTJDJTBEJTBBJTBEJTBBZmlyc3RuYW1lJTJDbGFzdG5hbWUlMkMlMEQlMEElMEQlMEFjb25jYXQlMjglMjhzZWxlY3QrZGF0YStmcm9tK3ByZWZpeF91c2VyX2luZm9fZGF0YSthdWlkK2lubmVyK2pvaW4rcHJlZml4X3VzZXJfaW5mb19maWVsZCthdWlmK29uK2F1aWQuZmllbGRpZCUzRGF1aWYuaWQlMEQlMEF3aGVyZSthdWlmLnNob3J0bmFtZSUzRCUyMkNBUHJvZ3JhbW1lJTIyK2FuZCthdWlkLnVzZXJpZCUzRHUuaWQlMjklMjkrYXMrJTIyUHJvZ3JhbW1lK0NvZGUlMjIlMkMlMEQlMEElMEQlMEFjb25jYXQlMjglMjhzZWxlY3QrZGF0YStmcm9tK3ByZWZpeF91c2VyX2luZm9fZGF0YSthdWlkK2lubmVyK2pvaW4rcHJlZml4X3VzZXJfaW5mb19maWVsZCthdWlmK29uK2F1aWQuZmllbGRpZCUzRGF1aWYuaWQlMEQlMEF3aGVyZSthdWlmLnNob3J0bmFtZSUzRCUyMkNBTW9kZSUyMithbmQrYXVpZC51c2VyaWQlM0R1LmlkJTI5JTI5K2FzKyUyMlBsYW4rb2YrU3R1ZGVudCUyMiUyQyUwRCUwQSUwRCUwQXNob3J0bmFtZSthcyslMjJNb2R1bGUrY29kZSUyMiUyQyUwRCUwQSUwRCUwQUlGJTI4cHJlZml4X2dyb3Vwcy5uYW1lK0xJS0UrJTIyRHVyaGFtK2xvd2VyK2xldmVsJTIyJTJDJTIyWSUyMiUyQ0lGJTI4cHJlZml4X2dyb3Vwcy5uYW1lK0xJS0UrJTIyRHVyaGFtK2FjY3JlZGl0ZWQlMjIlMkMlMjJOJTIyJTJDJTIySW52YWxpZCUyMiUyOSUyOSthcyslMjJMb3dlcitsZXZlbCttb2R1bGVzJTIyJTJDJTBEJTBBJTBEJTBBSUYlMjhyb2xlaWQlM0Q1JTJDJTIyU3R1ZGVudCUyMiUyQyUyMkludmFsaWQlMjIlMjkrYXMrUm9sZSUyQyUwRCUwQSUwRCUwQUNPTkNBVCUyOCUyNyUzQ2EraHJlZiUzRCUyMiUyRnVzZXIlMkZwcm9maWxlLnBocCUzRmlkJTNEJTI3JTJDdS5pZCUyQyUyNyUyMiUzRSUyNyUyQ3UudXNlcm5hbWUlMkMlMjclM0MlMkZhJTNFJTI3JTI5K2FzKyUyMnVzZXJuYW1lJTIyJTJDJTBEJTBBJTBEJTBBcHJlZml4X2dyb3Vwcy5uYW1lK2FzK2dyb3VwbmFtZStmcm9tJTBEJTBBJTBEJTBBKysrKysrKytwcmVmaXhfcm9sZV9hc3NpZ25tZW50cyUwRCUwQSUwRCUwQWlubmVyK2pvaW4rcHJlZml4X2NvbnRleHQrb24rcHJlZml4X3JvbGVfYXNzaWdubWVudHMuY29udGV4dGlkJTNEcHJlZml4X2NvbnRleHQuaWQrQU5EK3ByZWZpeF9jb250ZXh0LmNvbnRleHRsZXZlbCUzRDUwK0FORCtwcmVmaXhfcm9sZV9hc3NpZ25tZW50cy5yb2xlaWQlM0Q1JTBEJTBBJTBEJTBBSU5ORVIrSk9JTitwcmVmaXhfdXNlcit1K09OK3ByZWZpeF9yb2xlX2Fzc2lnbm1lbnRzLnVzZXJpZCslM0QrdS5pZCUwRCUwQSUwRCUwQWlubmVyK2pvaW4rcHJlZml4X2NvdXJzZStPTisrcHJlZml4X2NvbnRleHQuaW5zdGFuY2VpZCslM0QrcHJlZml4X2NvdXJzZS5pZCUwRCUwQSUwRCUwQWlubmVyK2pvaW4rcHJlZml4X2dyb3VwcytPTisrcHJlZml4X2NvdXJzZS5pZCslM0QrcHJlZml4X2dyb3Vwcy5jb3Vyc2VpZCUwRCUwQSUwRCUwQWlubmVyK2pvaW4rcHJlZml4X2dyb3Vwc19tZW1iZXJzK09OKytwcmVmaXhfZ3JvdXBzLmlkKyUzRCtwcmVmaXhfZ3JvdXBzX21lbWJlcnMuZ3JvdXBpZCUwRCUwQSUwRCUwQWlubmVyK2pvaW4rcHJlZml4X2dyb3VwaW5nc19ncm91cHMrT04rcHJlZml4X2dyb3Vwcy5pZCslM0QrcHJlZml4X2dyb3VwaW5nc19ncm91cHMuZ3JvdXBpZCUwRCUwQSUwRCUwQWlubmVyK2pvaW4rcHJlZml4X2dyb3VwaW5ncytPTitwcmVmaXhfZ3JvdXBpbmdzX2dyb3Vwcy5ncm91cGluZ2lkKyUzRCtwcmVmaXhfZ3JvdXBpbmdzLmlkJTBEJTBBJTBEJTBBd2hlcmUrcHJlZml4X2dyb3Vwc19tZW1iZXJzLnVzZXJpZCslM0QrdS5pZCtBTkQrJTI4cHJlZml4X2dyb3VwaW5ncy5uYW1lKyUzRCslMjdBbGwrRFUrYWNjcmVkaXRlZCUyNyUyOSslMEQlMEElMEQlMEFBTkQrSU5TVFIlMjhwcmVmaXhfY291cnNlLmlkbnVtYmVyJTJDJTI3LTE3JTI3JTI5JTNFMCslMEQlMEElMEQlMEFBTkQrSU5TVFIlMjhwcmVmaXhfY291cnNlLnNob3J0bmFtZSUyQyUyN1RNTSUyNyUyOSUzRTAlMEQlMEElMEQlMEElMEQlMEFvcmRlcitieSt1Lmxhc3RuYW1lJTJDK3UuZmlyc3RuYW1lIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO319fQ==]]></components>
+<export><![CDATA[xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
